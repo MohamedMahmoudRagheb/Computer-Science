@@ -1485,6 +1485,9 @@ span{
 .fadeInLeft>img{
 	border-radius: 10px;
 }
+#slider{
+	margin-bottom: 30px;
+}
 .feat-sec, .feat-sec-1
 {
 	direction: rtl;
